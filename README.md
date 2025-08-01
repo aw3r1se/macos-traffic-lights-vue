@@ -28,7 +28,7 @@ If you need to focus/unfocus the buttons, you can use the following functions:
 ```vue
 <script>
   import { ref } from 'vue';
-  import trafficLights from 'macos-traffic-lights-vue';
+  import TrafficLights from 'macos-traffic-lights-vue';
   
   const trafficLights = ref();
   
